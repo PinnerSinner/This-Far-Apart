@@ -1,5 +1,5 @@
 This Far Apart 🌍
-## [Feeling needy? Come see a mate](http://thisfarapart.s3-website-us-east-1.amazonaws.com)
+## 👉[Feeling needy? Come over for a hug](http://thisfarapart.s3-website-us-east-1.amazonaws.com) 👈
 
 This Far Apart is an interactive, browser-based project that calculates and visualises the distance between a visitor and a fixed point in Copacabana, Brasil. It converts that distance into approximate travel times and various equivalents from footsteps to pizzas. The project serves both as a technical demonstration and an accessible teaching example for static web hosting
 <img width="973" height="1091" alt="image" src="https://github.com/user-attachments/assets/29db1bdf-8a54-4a03-9371-ba23493243b8" />
@@ -28,6 +28,4 @@ The resulting distance is expressed in kilometres, from which several derived va
 The map interface is powered by [Leaflet.js](https://leafletjs.com), a lightweight open-source JavaScript library for interactive mapping. It renders a world map using OpenStreetMap tiles and plots two markers: one at the user’s detected location and another at Copacabana. 
 A polyline connects these points, creating a visual line-of-sight across the Earth’s surface. The map is fully interactive so users can pan, zoom, or drag to inspect the geography of their connection. The view automatically adjusts to fit both points within the viewport using Leaflet’s `fitBounds` method. This component demonstrates how a static webpage can incorporate spatial visualisation without any proprietary GIS backend or paid API.
 
----
 
-These metrics are deliberately light-hearted. They demonstrate how computation and presentation can merge to make raw geographic data more tangible and engaging, while reinforcing key ideas about data transformation and human context in technical design.
