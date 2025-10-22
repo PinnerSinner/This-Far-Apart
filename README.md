@@ -30,10 +30,4 @@ A polyline connects these points, creating a visual line-of-sight across the Ear
 
 ---
 
-
-* **Footsteps:** Converts metres to approximate human strides.
-* **Time by movement:** Shows how long a journey would take if walked, run, or ridden on horseback.
-* **Cultural analogies:** Presents playful statistics — for example, the number of pizzas that could fit end-to-end across that distance, or the number of ducks standing beak to tail.
-* **Media consumption equivalents:** Estimates how many hours of streaming might pass during that hypothetical journey.
-
 These metrics are deliberately light-hearted. They demonstrate how computation and presentation can merge to make raw geographic data more tangible and engaging, while reinforcing key ideas about data transformation and human context in technical design.
